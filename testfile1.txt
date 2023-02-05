@@ -1,4 +1,8 @@
 New file this is a usnims
+<<<<<<< HEAD
 dshgshfdkhfcuyjbkmjvho'
 xffh
 sggf
+=======
+dshgshfd
+>>>>>>> 7614fa0 (Last final)
